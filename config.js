@@ -1,8 +1,9 @@
 module.exports = {
 
 	'colors' : {
-		'blue' : '#074F9D',
+		'blue' : '#2D2A6F',
 	},
 
 	'primary': 'colors(blue)',
+	'griditem-minwidth': '25ch',
 };
